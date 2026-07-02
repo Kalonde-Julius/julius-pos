@@ -9,8 +9,8 @@
 
 To run this web app, run the following commands via cmd:
 
-composer update <br/>
-npm update <br/>
+composer install <br/>
 npm install <br/>
 php artisan migrate:fresh  <br/>
 npm run dev
+npm run build
